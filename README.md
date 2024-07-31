@@ -55,9 +55,10 @@ By tuning the variance between Transformers and convolution on ImageNet-1k, the 
 ### ImageNet-1k
 | Model        | FLOPs    | Params     | Top-1(%) | Latency  |
 | ------------ | -------- | ---------- |--------- |--------- |
-| DoTCoM-Tiny  | 0.2G     | 1.7M       | 71.8     | 28ms     |
-| DoTCoM-Small | 0.4G     | 2.8M       | 74.8     | 39ms     |
-| DoTCoM-Base  | 0.8G     | 5.8M       | 78.3     | 51ms     |
+| DoTCoM-Tiny  | 0.4G     | 1.7M       | 74.0     | 23ms     |
+| DoTCoM-Small | 0.8G     | 2.8M       | 77.5     | 38ms     |
+| DoTCoM-Base  | 1.6G     | 5.8M       | 80.1     | 51ms     |
+| DoTCoM-Large | 3.3G     | 11.1M      | 82.4     | 93ms     |
 
 ### MS-COCO (Object Detection)
 | Model         | Params     | mAP(%)   |
