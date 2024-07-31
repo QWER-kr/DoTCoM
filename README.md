@@ -21,6 +21,7 @@ DoTCoM is a powerful image classification, detection, and segmentation model, wh
 ## Quarter-Inverted Bottleneck (QIB) Block
 The Quarter-Inverted Bottleneck (QIB) was proposed, which is a combination of Quarter Groups (QG) and MV2 blocks that demonstrate optimal efficiency in terms of both computation and performance. 
 
+### Comparison of convolution blocks on ImageNet-1k.
 | Block    | Basic |   MV2  |   QG   |   QIB  |
 |----------|-------|--------|--------|--------|
 | Params   | 11.8M |  4.7M  |  5.6M  |  5.7M  |
