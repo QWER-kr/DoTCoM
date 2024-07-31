@@ -6,7 +6,7 @@ This repository contains the Pytorch implementation of  DoTCoM code.
   <img src="./docs/DoT_QG_Block.png" height="250">
 </div>
 <p align="center">
-  Fig. The proposed QIB and DoT block architecture.
+  Fig. 1: The proposed QIB and DoT block architecture.
 </p>
 
 <div align="center">
