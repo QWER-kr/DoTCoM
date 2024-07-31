@@ -110,7 +110,7 @@ pip install tqdm
 
 ```
 # 2 gpus, batch size = 128, epoch = 100, learning rate = 1e-3, weight decay = 5e-3, model = DoTCoM-Base
-python main.py --model {MODEL_NAME}
+python main.py --train --model {MODEL_NAME}
 ```
 
 ## Evaluation
