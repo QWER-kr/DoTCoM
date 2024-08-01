@@ -103,6 +103,7 @@ conda activate DoTCoM
 conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 cudatoolkit=12.1 -c pytorch
 
 pip install einops
+pip install timm
 pip install tqdm
 ```
 
